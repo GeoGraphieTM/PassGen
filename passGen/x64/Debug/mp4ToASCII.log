@@ -1,0 +1,8 @@
+﻿F:\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (mp4ToASCII.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  passGen.cpp
+C:\Users\sango\OneDrive\Bureau\GameHacking\Golem Recoil\mp4ToASCII\mp4ToASCII\passGen.cpp(13,74): warning C4267: 'argument' : conversion de 'size_t' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=int
+          ]
+  mp4ToASCII.vcxproj -> C:\Users\sango\OneDrive\Bureau\GameHacking\Golem Recoil\mp4ToASCII\x64\Debug\passGen.exe
